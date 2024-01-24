@@ -62,7 +62,13 @@ Answer 10 -
 The changes I made were not reflected Locally.
 
 Answer 11 - 
+An error appears. 
 
+Answer 12 - 
+Changes are now reflected locally.
+
+Answer 13 - 
+.  ..  git-lab-2  Labs
 
 
 
